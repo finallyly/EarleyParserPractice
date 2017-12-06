@@ -1,0 +1,9 @@
+I	noun
+saw	verb
+a	det
+man	noun
+in	prep
+the	det
+apartment	noun
+with	det
+telescope	noun
